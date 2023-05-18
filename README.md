@@ -1,13 +1,11 @@
-# Hello!
 
-### I'm ______ 
+# Welcome to my Repo!
+
+### Jake Norton
 
 ## 🌱 About me
-Currently studying Computer Science at the University of Otago. My interests....
+Currently studying Computer Science at the University of Otago
 
-## 🎓 Goals 
-To earn software engineer dollars 🫡
-Eating hella food
 
 ## 🧑‍💻 Skills
 
@@ -25,8 +23,3 @@ Eating hella food
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 
-## 📈 Stats 
-<!-- info on this plugin: https://github.com/anuraghazra/github-readme-stats#readme -->
-![](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&count_private=true&show_icons=true&theme=github_dark&hide=contribs)
-
-<a href = 'https://www.linkedin.com/in/YOUR-USERNAME-HERE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
